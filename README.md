@@ -1,3 +1,5 @@
+![BIOP Logo](https://github.com/Dreysuuuu/biop/blob/main/assets/img/logo-light.png?raw=true)
+
 # Barangay Integrated Online Portal (BIOP)
 
 **Institution:** STI College of Tanauan  
